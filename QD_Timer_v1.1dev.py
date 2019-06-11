@@ -3,6 +3,8 @@ import datetime
 from tkinter import *
 from tkinter import ttk
 
+
+#TEST
 #QD_Drive定義表
 Siren = 50511320
 Goliath = 39337480
